@@ -5,7 +5,7 @@ public class Principal {
 		// TODO Auto-generated method stub
 		// Creacion inicial de archivo Class Principal 
 		//Agregado desde gthub
-		//Agregado desde eclipse
+		//Agregado desde eclipse 
 	}
 
 }
