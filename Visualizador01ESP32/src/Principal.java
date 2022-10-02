@@ -6,7 +6,7 @@ public class Principal {
 		// Creacion inicial de archivo Class Principal 
 		//Agregado desde gthub
 		//Agregado desde eclipse 
-		//mod desde gthub a las 19:24
+		//mod desde eclipse a las 19:25
 	}
 
 }
