@@ -7,6 +7,7 @@ public class Principal {
 		//Agregado desde gthub
 		//Agregado desde eclipse 
 		//mod desde eclipse a las 19:25
+		//desde github a las 19:26
 	}
 
 }
