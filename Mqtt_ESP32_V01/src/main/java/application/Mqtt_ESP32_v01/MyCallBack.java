@@ -10,12 +10,6 @@ import org.eclipse.paho.client.mqttv3.MqttMessage;
 
 public class MyCallBack implements MqttCallback
 {
-
-
-	String mqttTopicOut_001 = "esp32/output1";  //Digital from Broker to ESP32
-	String mqttTopicOut_002 = "esp32/output2";  //Digital from Broker to ESP32
-	String mqttTopicOut_003 = "esp32/output3";  //Digital from Broker to ESP32
-	String mqttTopicOut_004 = "esp32/output4";  //PWM from Broker to ESP32
 	
 	boolean mqttPersistance = false;
 	byte[] mqttMessageOut_001;
